@@ -61,7 +61,7 @@ body {
     .box {
         width: 50%;
         padding-bottom: 0;
-            height: 390px;
+            height: 330px;
     }
 }
 @media only screen and (max-width:1290px) and (min-width:1051px) {
