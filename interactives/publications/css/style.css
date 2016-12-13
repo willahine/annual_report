@@ -26,7 +26,7 @@ body {
     float: left;
     position: relative;
     width: 50%;
-  height:470px;
+  height:900px;
     padding-bottom: 3%;
 }
 
@@ -70,5 +70,6 @@ body {
     .box {
         width: 50%;
         padding-bottom: 0;
+        height:600px;
     }
 }
