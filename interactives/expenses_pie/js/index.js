@@ -1,6 +1,6 @@
 $(function(){
   $("#pieChart").drawPieChart([
-    { title: "Program expenses",         value : 73 , content: "%",   color: "#004165" },
+    { title: "Programs",         value : 72 ,   color: "#004165" },
     { title: "Management and general", value: 21,   color: "#0faa91" },
     { title: "Development",        value : 6,   color: "#0065a4" },
 
