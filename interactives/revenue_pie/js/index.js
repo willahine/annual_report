@@ -1,11 +1,11 @@
 $(function(){
   $("#pieChart").drawPieChart([
-    { title: "Contributions",         value : 39 , content: "%",   color: "#004165" },
-    { title: "Nonfederal grants and contracts", value: 25,   color: "#0faa91" },
-    { title: "Federal grants and contracts",        value : 14,   color: "#0065a4" },
-    { title: "Foreign government grants and contracts",      value:  16,   color: "#343434" },
-    { title: "Other Revenue",        value : 2,   color: "#EB0D42" },
-    { title: "Investment return designated for operations",        value : 3,   color: "#E3CF57" },
+    { title: "Corporate",         value : 32 ,   color: "#004165" },
+    { title: "Foundation", value: 25,   color: "#0faa91" },
+    { title: "Government",        value : 28,   color: "#0065a4" },
+    { title: "Individual",      value:  8,   color: "#343434" },
+    { title: "Other",        value : 4,   color: "#EB0D42" },
+    { title: "Endowment",        value : 3,   color: "#E3CF57" },
 
   ]);
 });
